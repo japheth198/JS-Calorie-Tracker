@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    text-align: center;
+}
+
+text{
+    box-sizing: border-box;
+}
+
+
+h3{
+    text-align: center;
+}
+
+.total{
+    text-align: left;
+}
